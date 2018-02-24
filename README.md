@@ -43,4 +43,4 @@ This repository contains beginner examples and python3 syntax for getting hands-
 37. File Handling operations
 38. Exception handling concept
 
-*Few practicals which are not in practical folder will update soon*
+>*Few practicals which are not in practical folder will update soon*
